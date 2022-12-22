@@ -1,6 +1,6 @@
-// Ashley Allan, 2228 CS 2010 Section 1004, MoWeFri 11:30am-12:20pm
+// Ashley Allan
 
-//Program 3:Rock Paper Scissors, File:AllanA_Pgm3, Due:10/10/2022
+//Program 3:Rock Paper Scissors, File:AllanA_Pgm3
 
 /*
 Purpose: to play an automated game of Rock, Paper, Scissors. Two players make one of three
